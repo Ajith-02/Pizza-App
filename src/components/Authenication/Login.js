@@ -77,12 +77,13 @@ export function Login() {
         <Typography
           variant="h4"
           sx={{
-            fontFamily: "Aladin",
-            fontSize: { sm: "35px", xs: "28px" },
-            color: "white",
+            fontFamily: "Ubuntu",
+            fontSize: { sm: "50px", xs: "28px" },
+            color: "White",
+            fontWeight: "400",
           }}
         >
-          Crunch & Munch
+          Pizza Hunt
         </Typography>
       </div>
       <div className="formcontainer">

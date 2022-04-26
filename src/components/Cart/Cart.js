@@ -189,7 +189,7 @@ export function Cart() {
       </div>
     </section>
   ) : (
-    <h3>No Items in your cart.please start shopping</h3>
+    <h3>No Orders in your cart. Start Ordering your 🍕 now</h3>
   );
 }
 

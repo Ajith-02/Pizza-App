@@ -87,7 +87,7 @@ export function Signup() {
             color: "white",
           }}
         >
-          Crunch & Munch
+         Pizza Hunt
         </Typography>
       </div>
       <div className="formcontainer">
